@@ -20,7 +20,7 @@ A simple Python tool that pulls real-time stock data using Yahoo Finance, analyz
 
 Enter stock ticker symbol (or 'exit' to quit): MSFT
 
-Stock data for MSFT over the past month: [DataFrame output]
+Stock data for MSFT over the past month:
 
 Average Closing Price: $325.42 Maximum Closing Price: $332.10 Minimum Closing Price: $312.87
 
